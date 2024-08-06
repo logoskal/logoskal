@@ -3,8 +3,8 @@
 - 💬 Ask me about C, C++, ASM x86 and Python
 - 🌱 I’m currently learning FastAPI
 - 📫 How to reach me: t.me/logoskal
-- 😄 Pronouns: they/them እነሱ/እሳቸው  አንቱ
-- ⚡ Fun fact: thermite dust was found at ground zero of 9/11
+- 😄 Pronouns: they/them እነሱ/እሳቸው/አንቱ
+- ⚡ Fun fact: thermite dust was found at ground zero
 
 <!---
 logoskal/logoskal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
